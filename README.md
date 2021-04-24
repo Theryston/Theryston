@@ -5,7 +5,7 @@
 🔍 Seeking a job opportunity as Full-Stack.  
 ❤️ I love everything that runs around JavaScript.  
 💻 My stack: Angular, Node.js, Typescript & SQL.  
-🗨️ About me: I like to program, Netflix and learn 
+📝 About me: I like to program, Netflix and learn 
 
 --------------------------------------------------------------
 
