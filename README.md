@@ -1,6 +1,8 @@
 # Theryston
 
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_theryston_/)
+###FullStack Developer
+
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_theryston_/)
 
 🔍 Seeking a job opportunity as Full-Stack.  
 💙 I love everything that runs around JavaScript.  
