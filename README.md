@@ -1,6 +1,6 @@
 # Theryston
 
-###FullStack Developer
+### FullStack Developer
 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_theryston_/)
 
