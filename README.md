@@ -11,4 +11,4 @@
 
 --------------------------------------------------------------
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Theryston&show_icons=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theryston&layout=compact&theme=algolia">
