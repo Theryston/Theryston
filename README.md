@@ -1,14 +1,22 @@
-# Theryston
+# Hi I'm Theryston
 
-### FullStack Developer
+<pre>
+class Dev {
+  constructor(name, ege, work) {
+    this.name = name;
+    this.ege = ege;
+    this.work = work
+  }
+}
 
-🔍 looking for a job opportunity.  
-💙 I love everything that runs around JavaScript.  
-💻 My stack: React.js, Node.js, Typescript & SQL.  
-📝 About me: I like to program, Netflix and learn 
+const theryston = new Dev("Theryston Santos", 17, "FullStack Developer")
+console.log(theryston)
+</pre>
 
-[<img style="width: 60px;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_theryston_/) 
-[<img style="width: 50px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/Theryston/)
+### About me:
+<p>
+I work as a freelancer in website development since 2016 and I have already developed several websites and systems that have impacted more than 1 million users. I've always been interested in APIs and haven't worked on the backend with their development.
+<p>
 
 ### Main skills:
 
