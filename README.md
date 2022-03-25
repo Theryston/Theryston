@@ -33,7 +33,7 @@ I work as a freelancer in website development since 2016 and I have already deve
 ### Other Knowledge:
 
 ![Docker](https://img.shields.io/badge/-Docker-5992FF?style=for-the-badge&logo=docker&labelColor=1f004e)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-5992FF?style=for-the-badge&logo=bootstrap&labelColor=1f004e)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-5992FF?style=for-the-badge&logo=bootstrap&labelColor=1f004e)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-5992FF?style=for-the-badge&logo=markdown&labelColor=1f004e)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-5992FF?style=for-the-badge&logo=html5&labelColor=1f004e)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-5992FF?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=1f004e)&nbsp;
