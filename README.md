@@ -52,7 +52,7 @@ I work as a freelancer in website development since 2016 and I have already deve
 
 ### Studying in this moment:
 
-![Python](https://img.shields.io/badge/-Python-5992FF?style=for-the-badge&logo=python&labelColor=1f004e)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-5992FF?style=for-the-badge&logo=next.js&labelColor=1f004e)&nbsp;
 
 ### GitHub Analytics:
 
