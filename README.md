@@ -20,7 +20,7 @@ I work as a freelancer in website development since 2016 and I have already deve
 
 ### Main skills:
 
-![React.js](https://img.shields.io/badge/-React.js-5992FF?style=for-the-badge&logo=react&labelColor=1f004e)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-5992FF?style=for-the-badge&logo=next.js&labelColor=1f004e)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-5992FF?style=for-the-badge&logo=node.js&labelColor=1f004e)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-5992FF?style=for-the-badge&logo=typescript&labelColor=1f004e)&nbsp;
 ![Angular](https://img.shields.io/badge/-angular-5992FF?style=for-the-badge&logo=angular&labelColor=1f004e)&nbsp;
@@ -32,6 +32,7 @@ I work as a freelancer in website development since 2016 and I have already deve
 
 ### Other Knowledge:
 
+![React.js](https://img.shields.io/badge/-React.js-5992FF?style=for-the-badge&logo=react&labelColor=1f004e)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-5992FF?style=for-the-badge&logo=docker&labelColor=1f004e)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-5992FF?style=for-the-badge&logo=bootstrap&labelColor=1f004e)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-5992FF?style=for-the-badge&logo=markdown&labelColor=1f004e)&nbsp;
@@ -51,8 +52,8 @@ I work as a freelancer in website development since 2016 and I have already deve
 
 
 ### Studying in this moment:
+![Rust](https://img.shields.io/badge/-Rust-5992FF?style=for-the-badge&logo=rust&labelColor=1f004e)&nbsp;
 
-![Next.js](https://img.shields.io/badge/-Next.js-5992FF?style=for-the-badge&logo=next.js&labelColor=1f004e)&nbsp;
 
 ### GitHub Analytics:
 
