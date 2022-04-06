@@ -33,6 +33,7 @@ I work as a freelancer in website development since 2016 and I have already deve
 ### Other Knowledge:
 
 ![NestJS](https://img.shields.io/badge/-NestJS-5992FF?style=for-the-badge&logo=NestJS&labelColor=1f004e)&nbsp;
+![Express](https://img.shields.io/badge/-Express-5992FF?style=for-the-badge&logo=Express&labelColor=1f004e)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-5992FF?style=for-the-badge&logo=react&labelColor=1f004e)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-5992FF?style=for-the-badge&logo=docker&labelColor=1f004e)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-5992FF?style=for-the-badge&logo=bootstrap&labelColor=1f004e)&nbsp;
