@@ -41,6 +41,8 @@ I work as a freelancer in website development since 2016 and I have already deve
 ![HTML](https://img.shields.io/badge/-HTML-5992FF?style=for-the-badge&logo=html5&labelColor=1f004e)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-5992FF?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=1f004e)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-5992FF?style=for-the-badge&logo=javascript&labelColor=1f004e)&nbsp;
+![C#](https://img.shields.io/badge/-C%20Sharp-5992FF?style=for-the-badge&logo=C%20Sharp&labelColor=1f004e)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-5992FF?style=for-the-badge&logo=.NET&labelColor=1f004e)&nbsp;
 
 ### Tools:
 
@@ -51,11 +53,6 @@ I work as a freelancer in website development since 2016 and I have already deve
 ![Windows](https://img.shields.io/badge/-Windows-5992FF?style=for-the-badge&logo=windows&labelColor=1f004e)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-5992FF?style=for-the-badge&logo=microsoft-office&labelColor=1f004e)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-5992FF?style=for-the-badge&logo=linux&labelColor=1f004e)&nbsp;
-
-
-### Studying in this moment:
-![Rust](https://img.shields.io/badge/-Rust-5992FF?style=for-the-badge&logo=rust&labelColor=1f004e)&nbsp;
-
 
 ### GitHub Analytics:
 
