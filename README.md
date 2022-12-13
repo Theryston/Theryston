@@ -1,4 +1,3 @@
-![](https://hit.yhype.me/github/profile?user_id=72868196)
 # Hi I'm Theryston
 
 <pre>
@@ -70,3 +69,5 @@ I work as a freelancer in website development since 2016 and I have already deve
 <a href="https://www.instagram.com/_theryston_/"><img src="https://img.shields.io/badge/-@_theryston_-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 </p>
+
+![](https://hit.yhype.me/github/profile?user_id=72868196)
