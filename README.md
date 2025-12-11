@@ -57,7 +57,6 @@ I work as a freelancer in website development since 2016 and I have already deve
 ### GitHub Analytics:
 
 <p align="left">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=theryston&title_color=5992FF&icon_color=5992FF&text_color=5ce1e6&bg_color=1f004e&border_color=whitec&show_icons=true"/>
   <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=theryston&layout=compact&title_color=5992FF&icon_color=5992FF&text_color=5ce1e6&bg_color=1f004e&show_icons=true"/>
 </p>
 
